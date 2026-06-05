@@ -5,9 +5,6 @@
 - Genes and Genomes
 - Proteins and Amino Acids
 - Enzymes
-- Receptors and Ligands
-- Mutations
-- Central Dogma of Molecular Biology
 
 ✔️Learning Goal
 By the end of this section, you should understand the biological concepts commonly encountered in computational biology, bioinformatics, molecular docking, and molecular dynamics studies.
